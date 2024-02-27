@@ -1,0 +1,18 @@
+.para {
+    background-color: pink;
+    font-family: verdana, sans-serif;
+}
+
+p:nth-of-type(2){
+    font-weight: 500;
+    font-size: 24px;
+}
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+#div2 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
